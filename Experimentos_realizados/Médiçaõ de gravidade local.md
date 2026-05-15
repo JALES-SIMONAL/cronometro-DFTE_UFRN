@@ -1,4 +1,11 @@
 
+## Descrição do experimento 
+
+<p align="justify">
+O experimento consistiu em um lançador de uma esfera metálica que, ao estar posicionada no dispositivo, fecha um circuito. Ao ser abandonada, a esfera abre o circuito, o que constitui o primeiro sinal de tempo ($t_1$). Imediatamente abaixo, e separado do lançador por uma distância $h$, fica o prato de captura da esfera. Ao pousar no prato, este se desloca para baixo, fechando outro circuito e gerando o segundo sinal de tempo ($t_2$). Para calcular a gravidade local, foi usada a fórmula descrita abaixo. A altura $h$ é definida pela distância entre os dois elementos de medição. O experimento foi realizado para três valores diferentes de $h$: 50 cm, 30 cm e 10 cm, sendo feitas 11 repetições para cada uma das medições. Vale salientar que os cálculos foram realizados utilizando as unidades do SI: metro para a distância e segundo para o tempo.
+</p>
+
+
 $$g = \frac{2h}{(t_2 - t_1)^2}$$
 
 ### Cálculo da Gravidade (Distância entre sensores h: 10 cm)
