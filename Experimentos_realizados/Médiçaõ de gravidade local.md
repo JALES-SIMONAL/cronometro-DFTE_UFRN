@@ -64,6 +64,23 @@ $$g = \frac{2h}{(t_2 - t_1)^2}$$
 
 ## Seque a baixo algumas imagens do experimento 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/446a7ded-18cb-43ff-ad7d-7d02265f6849" alt="Gravidade" width="300"/>
+  <br>
+  <em>layout do experimento</em>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2be809f2-cc21-4639-a0fc-a64460ff356e" alt="gravidade_10cm" width="300"/>
+  <br>
+  <em>Ajuste de distância h para 10cm</em>
+</div>
+
+<br>
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/577d1af1-3a69-4074-82c4-09756dd4faab" alt="gravidade_30cm" width="300"/>
@@ -71,8 +88,9 @@ $$g = \frac{2h}{(t_2 - t_1)^2}$$
   <em>Ajuste de distância h para 30cm</em>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/446a7ded-18cb-43ff-ad7d-7d02265f6849" alt="Gravidade" width="300"/>
-  <br>
-  <em>layout do experimento</em>
-</div>
+
+
+
+
+
+
