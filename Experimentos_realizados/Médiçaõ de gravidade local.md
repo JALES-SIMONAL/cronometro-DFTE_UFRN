@@ -1,4 +1,5 @@
 
+
 ## Descrição do experimento 
 
 <p align="justify">
@@ -7,6 +8,8 @@ O experimento consistiu em um lançador de uma esfera metálica que, ao estar po
 
 
 $$g = \frac{2h}{(t_2 - t_1)^2}$$
+
+## Tabela de medições dos experimentos e valores de gravidade calculados
 
 ### Cálculo da Gravidade (Distância entre sensores h: 10 cm)
 
@@ -58,3 +61,18 @@ $$g = \frac{2h}{(t_2 - t_1)^2}$$
 | 2697 | 3015 | 318 | 9,888849333 |
 | 966 | 1284 | 318 | 9,888849333 |
 | **Aceleração Média** | | | **9,855084673** |
+
+## Seque a baixo algumas imagens do experimento 
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/577d1af1-3a69-4074-82c4-09756dd4faab" alt="gravidade_30cm" width="300"/>
+  <br>
+  <em>Ajuste de distância h para 30cm</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/446a7ded-18cb-43ff-ad7d-7d02265f6849" alt="Gravidade" width="300"/>
+  <br>
+  <em>layout do experimento</em>
+</div>
