@@ -2,7 +2,7 @@
 O presente experimento foi tem o objetivo de verificar a aceleração instantanea de um carro em 2 pontos sobre um trilho de ar( sem atrito).
 
 ### Descrição da montagem do experimento 
-A imagem a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com inclinação de 5° conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre 
+A imagem a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com inclinação de 5°,[veja a imagem da medição](#medição_graus_inclinação) conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre 
 
 <br><br>
 <div align="center">
@@ -11,7 +11,7 @@ A imagem a baixo mostra a disposição da montagem. A motagem comsiste em um tri
   <em>Bancada de teste do experimento</em>
 </div>
 
-<div align="center">
+<div id="medição_graus_inclinação" align="center">
   <img src="https://github.com/user-attachments/assets/84fcf58d-6338-43c9-abe7-39a81bb3ac94" alt="medicao_inclinacao" width="300"/>
   <br>
   <em>Medição de inclinação, 5° de inclinação
@@ -38,4 +38,4 @@ A imagem a baixo mostra a disposição da montagem. A motagem comsiste em um tri
 
 </div>
 
-
+[veja a imagem da medição](#medição_graus_inclinação)
