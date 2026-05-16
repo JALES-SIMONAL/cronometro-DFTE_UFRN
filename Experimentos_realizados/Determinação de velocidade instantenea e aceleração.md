@@ -1,5 +1,15 @@
 # Determinação de velocidade instantenea e aceleração
-O presente experimento foi tem o objetivo de verificar a aceleração instantanea em 2 pontos no
+O presente experimento foi tem o objetivo de verificar a aceleração instantanea de um carro em 2 pontos sobre um trilho de ar( sem atrito).
+
+### Descrição da montagem do experimento 
+A imagem a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com inclinação de 5° conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre 
+
+<br><br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6b5d8857-9b4a-444d-88c9-55b7df2beb25" alt="bancada_teste_experimento" width="600"/>
+  <br>
+  <em>Bancada de teste do experimento</em>
+</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/84fcf58d-6338-43c9-abe7-39a81bb3ac94" alt="medicao_inclinacao" width="300"/>
@@ -28,8 +38,4 @@ O presente experimento foi tem o objetivo de verificar a aceleração instantane
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6b5d8857-9b4a-444d-88c9-55b7df2beb25" alt="bancada_teste_experimento" width="600"/>
-  <br>
-  <em>Bancada de teste do experimento</em>
-</div>
+
