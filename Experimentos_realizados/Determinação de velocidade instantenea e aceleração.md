@@ -2,7 +2,7 @@
 O presente experimento foi tem o objetivo de verificar a aceleração instantanea de um carro em 2 pontos sobre um trilho de ar( sem atrito).
 
 ### Descrição da montagem do experimento 
-A [imagem](#layout) a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com [inclinação de 5°](#medição_graus_inclinação) conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre o carro a uma vela com comprimento de [10 cm](#mediçãoVela) usada para calcular a velocidade instantanea nos 2 pontos escolhidos.
+A [imagem](#layout) a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com [inclinação de 5°](#medição_graus_inclinação) conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre o carro a uma vela com comprimento de [10 cm](#mediçãoVela) usada para calcular a velocidade instantanea nos 2 pontos escolhidos. Os sensores photogate S1 e S2 usados são de [fabricação própria](#sensor) e foram posicionados respctivamente nas posições [140cm ](#s1_140) e [90cm](#s2_90). Os sensores photogate são tem sua alimentação e sinal de resposta conectado ao hardware de aquisição de dados. 
 
 <br><br>
 <div id="layout" align="center">
@@ -10,6 +10,9 @@ A [imagem](#layout) a baixo mostra a disposição da montagem. A motagem comsist
   <br>
   <em>Bancada de teste do experimento</em>
 </div>
+
+
+### Imagens das medições
 
 <div id="medição_graus_inclinação" align="center">
   <img src="https://github.com/user-attachments/assets/84fcf58d-6338-43c9-abe7-39a81bb3ac94" alt="medicao_inclinacao" width="300"/>
@@ -25,17 +28,26 @@ A [imagem](#layout) a baixo mostra a disposição da montagem. A motagem comsist
   <em>Medição da vela, comprimento de 10cm</em>
 </div>
 
-<div align="center">
+<br><br>
+
+<div id="s1_140" align="center">
   <img src="https://github.com/user-attachments/assets/facae6a6-86c1-4c9e-883e-6b8181a24316" alt="posicao_sensor_s1" width="300"/>
   <br>
   <em>Posição do sensor s1 140cm</em>
 </div>
 
-<div align="center">
+<br><br>
+
+<div id="s2_90" align="center">
   <img src="https://github.com/user-attachments/assets/2eb82f9a-d5a6-4b01-a38f-13b6bb0bd79f" alt="posicao_sensor_s2" width="300"/>
   <br>
   <em>Posição do sensor s2 90cm</em>
-
 </div>
 
-[veja a imagem da medição](#medição_graus_inclinação)
+<br><br>
+
+<div id="sensor" align="center">
+  <img src="https://github.com/user-attachments/assets/f222edff-1653-4469-8fcd-149835c1f742" alt="sensor_photogate_proprio" width="300"/>
+  <br>
+  <em>sensor photogate de fabricação própria</em>
+</div>
