@@ -3,7 +3,8 @@
 O presente experimento foi tem o objetivo de verificar a aceleração instantanea de um carro em 2 pontos sobre um trilho de ar( sem atrito).
 
 ## Descrição da montagem do experimento 
-A [imagem](#layout) a baixo mostra a disposição da montagem. A motagem comsiste em um trilho de ar com [inclinação de 5°](#medição_graus_inclinação) conectado soprador de ar. Na extremidade esqueda do trilho de ar disparador mecânica manual resposavel por iniciar o movimento. Loga a prente do disparador mecânico se encontra o carro, esta se movimentara de uma ponta a outra do trilho após o disparo. Sobre o carro a uma vela com comprimento de [10 cm](#mediçãoVela) usada para calcular a velocidade instantanea nos 2 pontos escolhidos. Os sensores photogate S1 e S2 usados são de [fabricação própria](#sensor) e foram posicionados respctivamente nas posições [140cm ](#s1_140) e [90cm](#s2_90). Os sensores photogate são tem sua alimentação e sinal de resposta conectado ao hardware de aquisição de dados. 
+
+A [imagem](#layout) abaixo mostra a disposição da montagem. A montagem consiste em um trilho de ar com [inclinação de 5°](#medição_graus_inclinação) conectado a um soprador de ar. Na extremidade esquerda do trilho de ar, encontra-se um disparador mecânico manual, responsável por iniciar o movimento. Logo à frente do disparador mecânico se encontra o carro, que se movimentará de uma ponta a outra do trilho após o disparo. Sobre o carro, há uma vela com comprimento de [10 cm](#mediçãoVela), usada para calcular a velocidade instantânea nos dois pontos escolhidos. Os sensores *photogate* S1 e S2 usados são de [fabricação própria](#sensor) e foram posicionados respectivamente nas posições [140cm ](#s1_140) e [90cm](#s2_90). Os sensores *photogate* têm sua alimentação e seu sinal de resposta conectados ao hardware de aquisição de dados.
 
 <br><br>
 <div id="layout" align="center">
